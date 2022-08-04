@@ -81,8 +81,24 @@ span {
 }
 
 .div2 {
-  margin: 70px;
+  margin: 20px;
+  position: relative;
+  
 }
+#bck{
+    background: url(hero-bg.svg);
+   
+    
+   
+}
+#bck2{
+    background: url(hero-bg.svg);
+    
+}
+#bck3{
+    background: url(hero-bg.svg);
+    
+    }
 
 .img {
   margin: 30px;
@@ -100,6 +116,7 @@ a {
 
 .team {
   color: #f44336;
+  margin-top: 200px;
 }
 li {
   list-style: none;

@@ -10,10 +10,17 @@
 .col {
   padding: 10px;
   width: 100%;
+ 
+  
 }
 @media screen and (min-width: 800px) {
   .col {
     width: 33.33%;
+    
+  }
+  #bck{background: url(hero-bg.svg) url(right.png);
+    
+    
   }
 }
 .column {
