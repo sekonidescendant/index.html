@@ -87,7 +87,7 @@ span {
 }
 #bck{
     background: url(hero-bg.svg);
-   
+      
     
    
 }
@@ -97,7 +97,7 @@ span {
 }
 #bck3{
     background: url(hero-bg.svg);
-    
+    padding: 10px;
     }
 
 .img {
@@ -116,7 +116,7 @@ a {
 
 .team {
   color: #f44336;
-  margin-top: 200px;
+  margin-top: 200cpx;
 }
 li {
   list-style: none;
